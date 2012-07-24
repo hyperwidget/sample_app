@@ -8,7 +8,7 @@ set :use_sudo, false
 set :user, "rawkamatic"
 
 set :application, "syntaxSynposium.com"
-set :repository,  "git@github.com:rawkamatic/syntaxSynposium.com.git"
+set :repository,  "git@github.com:rawkamatic/syntaxSymposium.com.git"
 set :scm, :git
 set :branch, 'master'
 set :git_shallow_clone, 1
